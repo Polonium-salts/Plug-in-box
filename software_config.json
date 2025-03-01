@@ -1,0 +1,39 @@
+{
+    "software_list": [
+        {
+            "name": "Chrome浏览器",
+            "version": "120.0.6099.130",
+            "description": "Google Chrome是一个由Google开发的网页浏览器",
+            "download_url": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B910679B9-5BBC-9C8B-D90A-74B24A89D6C1%7D%26lang%3Dzh-CN%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe",
+            "icon": "chrome.png"
+        },
+        {
+            "name": "火狐浏览器",
+            "version": "121.0",
+            "description": "Mozilla Firefox是一个自由开源的网页浏览器",
+            "download_url": "https://www.mozilla.org/zh-CN/firefox/",
+            "icon": "firefox.png"
+        },
+        {
+            "name": "7-Zip",
+            "version": "23.01",
+            "description": "7-Zip是一款开源的文件压缩软件",
+            "download_url": "https://www.7-zip.org/",
+            "icon": "7zip.png"
+        },
+        {
+            "name": "微信",
+            "version": "3.9.7",
+            "description": "微信是一款流行的即时通讯软件",
+            "download_url": "https://weixin.qq.com/",
+            "icon": "wechat.png"
+        },
+        {
+            "name": "QQ",
+            "version": "9.7.13",
+            "description": "QQ是腾讯开发的即时通讯软件",
+            "download_url": "https://im.qq.com/",
+            "icon": "qq.png"
+        }
+    ]
+}
